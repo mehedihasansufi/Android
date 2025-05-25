@@ -6,9 +6,9 @@
 
 
 - In Interstitial add folder
-    - [ ]  settings.gradle
-    - [ ]  build.gradle
-    - [ ]  Manifest.xml
-    - [ ]  [MainActivity.java](http://MainActivity.java) here (
+    - [ ]  settings.gradle (same code)
+    - [ ]  build.gradle     (same code)
+    - [ ]  Manifest.xml      (same code)
+    - [ ]  [MainActivity.java] here (
     
     `AddInitialization();` )
